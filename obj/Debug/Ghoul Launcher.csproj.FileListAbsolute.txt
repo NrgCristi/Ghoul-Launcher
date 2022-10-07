@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Ghoul Launcher\bin\Debug\Ghoul Launcher.exe
+C:\Users\User\source\repos\Ghoul Launcher\bin\Debug\Ghoul Launcher.pdb
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul Launcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul_Launcher.Form1.resources
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul Launcher.exe
+C:\Users\User\source\repos\Ghoul Launcher\obj\Debug\Ghoul Launcher.pdb
